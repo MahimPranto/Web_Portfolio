@@ -1,5 +1,9 @@
 body{
+    margin: 0%;
     font-family: 'Raleway';
+}
+section{
+    height: 500px;
 }
 
 h1 {
@@ -13,8 +17,20 @@ h1 {
     float: left;
     margin-left: 5%;
     padding-left: 2%;
-    margin-top: 2%;
+    
 }
 .half-width img{
     width: 100%;
+}
+.top-profile{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+.hire{
+    text-decoration: none;
+    color: white;
+    font: bold;
+    background-image: linear-gradient(lightblue, lightseagreen) ;
+    border-radius: 5%;
+    padding: 10px 20px;
 }
