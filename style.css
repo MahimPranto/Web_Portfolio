@@ -1,6 +1,6 @@
 body{
-    margin: 0%;
-    font-family: 'Raleway';
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
 }
 section{
     height: 500px;
@@ -12,6 +12,9 @@ h1 {
 }
 h2{
     font-size: 40px;
+}
+.skills h2{
+    padding-left: 2%;
 }
 
 .name-highlight{
